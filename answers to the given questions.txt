@@ -1,0 +1,122 @@
+
+1)Programming paradigms
+Action
+Agent-oriented
+Array-oriented
+Automata-based
+Concurrent computing
+Relativistic programming
+Data-driven
+Declarative (contrast: Imperative)
+Functional
+Functional logic
+Purely functional
+Logic
+Abductive logic
+Answer set
+Concurrent logic
+Functional logic
+Inductive logic
+Constraint
+Constraint logic
+Concurrent constraint logic
+Dataflow
+Flow-based
+Reactive
+Dynamic/scripting
+Event-driven
+Function-level (contrast: Value-level)
+Point-free style
+Concatenative
+Generic
+Imperative (contrast: Declarative)
+Procedural
+Object-oriented
+Literate
+Language-oriented
+Natural-language programming
+Discipline-specific
+Domain-specific
+Grammar-oriented
+Intentional
+Metaprogramming
+Automatic
+Inductive programming
+Reflective
+Attribute-oriented
+Macro
+Template
+Non-structured (contrast: Structured)
+Array
+Nondeterministic
+Parallel computing
+Process-oriented
+Probabilistic
+Stack-based
+Structured (contrast: Non-structured)
+Block-structured
+Object-oriented
+Actor-based
+Class-based
+Concurrent
+Prototype-based
+By separation of concerns:
+Aspect-oriented
+Role-oriented
+Subject-oriented
+Recursive
+Symbolic
+Value-level (contrast: Function-level)
+Quantum programming
+
+https://en.wikipedia.org/wiki/Template:Programming_paradigms
+2)
+1_Declarative-mentiqi ve funksional
+  Imperative-obyekt yonumlu ve prosedurludur(prosedurlardan ibaretdir)
+
+2_Declarative-birbasa neticeni gosterir 
+  Imperative-neticeye geden yolda her etapi gosterir
+
+3_Declarative-sehv olduqda program islemir
+  Imperative-sehvler olduqda her etapda onlarin yerini gosterir
+
+4_Declarative-qisadir
+  Imperative-daha genisdir
+
+5_Declarative-programda deyisiklik etmek olmur(mudaxile etmek olmur)
+  Imperative-istenilen etapda mudaxile etmek olur
+
+https://codeburst.io/declarative-vs-imperative-programming-a8a7c93d9ad2
+https://stackoverflow.com/questions/1784664/what-is-the-difference-between-declarative-and-imperative-programming
+https://tylermcginnis.com/imperative-vs-declarative-programming/
+https://medium.com/front-end-weekly/imperative-versus-declarative-code-whats-the-difference-adc7dd6c8380
+https://www.linkedin.com/pulse/20140915130624-107536061-imperative-vs-declarative-programming
+https://blog.webix.com/difference-between-declarative-and-imperative-programming-with-language-examples/
+3)
+1_duzbucaqlinin sahesinin hesablanmasi
+  a terefi 
+  b terefi
+  a vur b
+2_masin
+  hypercar
+  Porsche 
+  Porsche 918 Spyder
+3_su
+  qazsiz su
+  butulkada su
+  Erikli su
+  0,5 litr hecmli su
+https://medium.com/@kkajasu/object-oriented-programming-with-real-world-example-63f69f917d62
+4)
+  Imperative paradiqmani ozume daha yaxin hesab edirem. 
+  Cunki riyaziyyati cox xoslayiram ve hesablamalarin her addimini gormek mene formulalari daha yaxsi basa dusmeye ve yadda saxlamaga komek edi
+
+
+
+
+
+
+
+
+
+
